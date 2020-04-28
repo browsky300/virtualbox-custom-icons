@@ -10,7 +10,7 @@ Or use the provided script.
 
 Links to the operating systems:
 
-- [Android-x86](https://android-x86.org)
+- [Android-x86](http://android-x86.org)
 - [Chromium OS](https://chromium.org/chromium-os)
 - [elementary OS](https://elementary.io)
 - [Fedora](https://getfedora.org)
