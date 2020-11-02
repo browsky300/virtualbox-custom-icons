@@ -19,7 +19,7 @@ Links to the operating systems:
 - [Kali Linux](https://kali.org)
 - [Manjaro](https://manjaro.org)
 - [Linux Mint](https://linuxmint.com)
-- [Qubes OS] (https://www.qubes-os.org)
+- [Qubes OS] (https://qubes-os.org)
 - [Raspberry Pi OS](https://raspberrypi.org/downloads/raspberry-pi-desktop)
 - [ReactOS](https://reactos.org)
 - [Red Star OS] (https://archiveos.org/redstar)
